@@ -2,7 +2,6 @@
 
  # Projeto zoro - Website de roupas masculinas  
 📌 Bem-vindo ao repositório do projeto Zoro, uma loja de roupas masculinas desenvolvida como parte de um projeto acadêmico na disciplina de Desenvolvimento Web. 
-<p>Clique no link para acessar o website. https://andreydiassa.github.io/Zoro-lojaMasculina/ </p>
 
 # Características Principais
 - **Responsividade:** Nosso site é completamente responsivo, garantindo uma experiência consistente em diferentes dispositivos.

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zoro Moda Masculina - Cadastro</title>
+    <!-- scroll reveal cdn  -->
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <!-- box icon cdn  -->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <!-- custom css file -->
+    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="shortcut icon" href="img/logoZoro.png" alt="Logotipo da Zoro Moda Masculina" type="image/x-icon">
+</head>
+<body class="corlogin">
+
+    <header class="section flex">
+        <!-- header left section  -->
+        <div class="header-left">
+            <!-- header logo  -->
+            <div class="header-logo">
+              <a class="marca-zoro" href="index.html"><h1>Zoro</h1></a>
+            </div>
+        </div>
+        <div class="header-right flex">
+            <!-- header search box  -->
+            <div class="search-box flex">
+                <i class='bx bx-search search-icon'></i>
+                <input type="text" class="input-search" placeholder="O que você busca?">
+            </div>
+            <!-- header icons  -->
+            <div class="header-icons flex">
+                <a href="carrinho.html">
+                <i class='bx bx-cart-alt'></i></a>
+                <a href="tela-de-login.html">
+                <i class="bx bx-user"></i></a>
+            </div>
+            <!-- header menu -->
+            <div class="header-menu">
+                <i class='bx bx-menu-alt-right menu-icon' ></i>
+                <!-- menu  -->
+                <ul class="menu flex">
+                    <li class="nav-item">
+                        <i class='bx bxs-home' ></i>
+                        <a href="index.html">Inicio</a>
+                    </li>
+                    <li class="nav-item">
+                        <i class='bx bxs-shopping-bag' ></i>                      
+                        <a href="produtos.html">Produtos</a>
+                    </li> 
+                </ul>
+            </div>
+            <!-- mode change icon  -->
+            <div class="mode-change">
+                <i class='bx bx-moon mode-change-icon' ></i>
+            </div>
+        </div>
+    </header>
+    <div class="cadastro">
+       <h1 class="cadastre-se">Cadastre-se</h1>
+
+          <form action="insere.php" method="post">
+            <label for="nome"></label>
+            <input type="text" id="nome" name="nome" placeholder="Nome de Usuário"><br><br>
+            <label for="email"></label>
+            <input type="text" id="email" name="email" placeholder="E-mail"><br><br>
+            <label for="senha"></label>
+            <input type="password" id="senha" name="senha" placeholder="Senha"><br><br>
+            <input type="submit" value="Cadastrar" class="enviar2" id="cadastro">
+          </form>
+      
+    </div> 
+    <!---Acessibilidade libras--> 
+    <div vw class="enabled">
+        <div vw-access-button class="active"></div>
+         <div vw-plugin-wrapper>
+           <div class="vw-plugin-top-wrapper"></div>
+        </div>
+       </div>
+       <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+       <script>
+         new window.VLibras.Widget('https://vlibras.gov.br/app');
+       </script>  
+     <!-- custom js file  -->
+    <script src="js/index.js"></script>
+</body>
+</html>

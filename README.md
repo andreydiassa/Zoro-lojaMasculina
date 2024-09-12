@@ -2,7 +2,7 @@
 
  # Projeto zoro - Website de roupas masculinas  
 📌 Bem-vindo ao repositório do projeto Zoro, uma loja de roupas masculinas desenvolvida como parte de um projeto acadêmico na disciplina de Desenvolvimento Web. 
-<p>Clique no link para acessar o website. https://gabisanttos.github.io/Zoro-Website-Moda-Masculina/ </p>
+<p>Clique no link para acessar o website. https://andreydiassa.github.io/Zoro-lojaMasculina/ </p>
 
 # Características Principais
 - **Responsividade:** Nosso site é completamente responsivo, garantindo uma experiência consistente em diferentes dispositivos.
@@ -17,6 +17,6 @@ Quero expressar minha gratidão aos seguintes amigos que contribuíram significa
 
 - https://github.com/DorgieldoArraes
 - https://github.com/Carolfernanda
-- Andrey, Gilberto e Luan
+- gabi, Gilberto e Luan
   
  A colaboração deles foi fundamental. Sinta-se à vontade para explorar o código-fonte. Obrigado por visitar esse repositório!

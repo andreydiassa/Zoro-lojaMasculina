@@ -16,6 +16,7 @@ Quero expressar minha gratidão aos seguintes amigos que contribuíram significa
 
 - https://github.com/DorgieldoArraes
 - https://github.com/Carolfernanda
-- gabi, Gilberto e Luan
+- https://github.com/gabisanttos
+-  Gilberto e Luan
   
  A colaboração deles foi fundamental. Sinta-se à vontade para explorar o código-fonte. Obrigado por visitar esse repositório!
